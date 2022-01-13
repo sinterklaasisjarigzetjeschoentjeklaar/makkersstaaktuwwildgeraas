@@ -1,0 +1,1 @@
+![Alt Text](assets/img/nepkamer.gif)  FOUT! Helaas, maar rug recht en kop op,  echte tovenaars geven niet op![Oké, ik ben een dreuzel en ik ga terug naar start](./start.md)

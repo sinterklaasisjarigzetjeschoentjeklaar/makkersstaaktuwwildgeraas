@@ -1,0 +1,1 @@
+![Alt Text](assets/img/stuiter.gif)  HOERA!! Je bent een echte Griffindor. Griffindor? 'VO!  Je hebt het nu verdiend, dus pak snel uit dat cadeau!  [<img src="assets/img/cadeau.JPEG" width="250" height="250">](./steam.md)

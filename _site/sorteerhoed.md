@@ -1,0 +1,1 @@
+Dappere tovenaar! Tot nu toe doe je het goed,  om verder te gaan klik je op de meest sexy sorteerhoed.[<img src="assets/img/sorteerhoed1.png" width="250" height="250">](./cadeau.md)[<img src="assets/img/sorteerhoed2.jpg" width="250" height="250">](./fout.md)[<img src="assets/img/sorteerhoed3.png" width="250" height="250">](./fout.md)

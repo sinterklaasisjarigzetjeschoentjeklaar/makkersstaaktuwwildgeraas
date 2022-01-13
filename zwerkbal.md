@@ -1,0 +1,1 @@
+![Alt Text](assets/img/zwerkbal.gif)  Bij intergalactisch zwerkbal graait men naar de snaai,  Maar ra-ra, hoe veel zebravissen zitten d'r baai?  [(A) 2](./fout.md)  [(B) 4](./sorteerhoed.md)  [(C) 6](./fout.md)  
