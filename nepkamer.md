@@ -1,1 +1,1 @@
-![Alt Text](assets/img/nepkamer.gif)  Spinnensoep met spruitjes, knekel met wat slijm,  'Tis zoeken wat je moet, want die kamer is **geheim**!  [Oké, ik ben een dreuzel en ik ga terug naar start](./index.md)
+![Alt Text](assets/img/nepkamer.gif)  Spinnensoep met spruitjes, knekel met wat slijm,  'Tis zoeken wat je moet, want die kamer is **geheim**!  [Oké, ik ben een dreuzel en ik ga terug naar start](./start.md)
